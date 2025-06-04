@@ -1,18 +1,6 @@
 # Quartz v4
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> «Тот, кто работает с открытой дверью, постоянно отвлекается, но [он] также время от времени получает подсказки о том, что происходит в мире и что может быть важным». — Ричард Хэмминг 
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+ 
+Quartz — это набор инструментов, которые помогают вам бесплатно опубликовать свой [цифровой сад](https://jzhao.xyz/posts/networked-thought) и заметки в виде веб-сайта. В версии 4.0 Quartz полностью переписан с упором на расширяемость и простоту использования для конечных пользователей. 🔗 Ознакомьтесь с документацией и приступайте к работе: https://quartz.jzhao.xyz/ [Присоединяйтесь к сообществу Discord](https://discord.gg/cRFFHYye7t)
